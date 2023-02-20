@@ -88,3 +88,5 @@ Paso # 7
 
 
 Eso seria todo, ahora debemos verificar que hayan quedado los archivos en el repositorio de github
+
+![image](https://user-images.githubusercontent.com/124592267/220145470-bc60f973-ae9b-4aa0-811d-2422e8272dd4.png)
